@@ -1,0 +1,235 @@
+[
+    {
+        "listName": "Liste Rassemblement National",
+        "headOfList": "Jordan Bardella",
+        "programLink": "https://example.com/programme-rn",
+        "candidates": [
+            {
+                "name": "Jordan Bardella",
+                "age": 28,
+                "profession": "Président du Rassemblement national, député européen depuis 2019",
+                "department": "Seine-Saint-Denis (93)",
+                "position": 1
+            },
+            {
+                "name": "Malika Sorel",
+                "age": 64,
+                "profession": "Essayiste, ancienne membre du Haut Conseil à l’intégration",
+                "department": "-",
+                "position": 2
+            },
+            {
+                "name": "Fabrice Leggeri",
+                "age": 56,
+                "profession": "Haut fonctionnaire, ancien directeur de Frontex",
+                "department": "-",
+                "position": 3
+            },
+            {
+                "name": "Mathilde Androuët",
+                "age": 39,
+                "profession": "Députée européenne depuis 2019",
+                "department": "Hauts-de-Seine (92)",
+                "position": 4
+            },
+            {
+                "name": "Jean-Paul Garraud",
+                "age": 68,
+                "profession": "Député européen depuis 2019, président de la délégation française du groupe ID au Parlement européen, ancien député de Gironde (2002-2012)",
+                "department": "Haute-Garonne (31)",
+                "position": 5
+            },
+            {
+                "name": "Mélanie Disdier",
+                "age": 50,
+                "profession": "Conseillère régionale des Hauts-de-France, conseillère municipale de Caudry",
+                "department": "Nord (59)",
+                "position": 6
+            },
+            {
+                "name": "Matthieu Valet",
+                "age": 38,
+                "profession": "Policier, ancien porte-parole du Syndicat indépendant des commissaires de police",
+                "department": "-",
+                "position": 7
+            },
+            {
+                "name": "Anne-Sophie Frigout",
+                "age": 33,
+                "profession": "Ancienne députée de la Marne (2022), conseillère régionale du Grand Est",
+                "department": "Marne (51)",
+                "position": 8
+            },
+            {
+                "name": "Thierry Mariani",
+                "age": 65,
+                "profession": "Député européen depuis 2019, ancien ministre délégué chargé des Transports (2010-2012), ancien député du Vaucluse (1993-2010, 2012-2017)",
+                "department": "Vaucluse (84)",
+                "position": 9
+            },
+            {
+                "name": "Pascale Piera",
+                "age": 57,
+                "profession": "Magistrate pénaliste",
+                "department": "-",
+                "position": 10
+            }
+        ]
+    }, 
+
+    {
+        "listName": "Liste Renaissance",
+        "headOfList": "Valérie Hayer",
+        "programLink": "https://exemple-programme.fr",
+        "candidates": [
+                    {
+                        "name": "Valérie Hayer",
+                        "age": 38,
+                        "profession": "Députée européenne depuis 2019, présidente du groupe Renew Europe au Parlement européen",
+                        "department": "Mayenne (53)",
+                        "position": 1
+                    },
+                    {
+                        "name": "Bernard Guetta",
+                        "age": 73,
+                        "profession": "Député européen depuis 2019",
+                        "department": "Paris (75)",
+                        "position": 2
+                    },
+                    {
+                        "name": "Marie-Pierre Vedrenne",
+                        "age": 41,
+                        "profession": "Députée européenne depuis 2019",
+                        "department": "Ille-et-Vilaine (35)",
+                        "position": 3
+                    },
+                    {
+                        "name": "Pascal Canfin",
+                        "age": 49,
+                        "profession": "Député européen depuis 2019, président de la commission de l’Environnement au Parlement européen, ancien ministre délégué au Développement (2012-2014)",
+                        "department": "Seine-Saint-Denis (93)",
+                        "position": 4
+                    },
+                    {
+                        "name": "Nathalie Loiseau",
+                        "age": 60,
+                        "profession": "Députée européenne depuis 2019, présidente de la sous-commission Sécurité et défense, ancienne ministre chargée des Affaires européennes (2017-2019)",
+                        "department": "Paris (75)",
+                        "position": 5
+                    },
+                    {
+                        "name": "Sandro Gozi",
+                        "age": 56,
+                        "profession": "Député européen depuis 2020, ancien secrétaire d’Etat italien aux Affaires européennes (2014-2018), secrétaire général du Parti démocrate européen",
+                        "department": "Italie",
+                        "position": 6
+                    },
+                    {
+                        "name": "Fabienne Keller",
+                        "age": 64,
+                        "profession": "Députée européenne depuis 2019, quatrième questeure du Parlement européen, ancienne sénatrice (2004-2019), ancienne maire de Strasbourg (2001-2008)",
+                        "department": "Bas-Rhin (67)",
+                        "position": 7
+                    },
+                    {
+                        "name": "Grégory Allione",
+                        "age": 52,
+                        "profession": "Sapeur pompier, directeur de l’école nationale supérieure des officiers (ENSOSP)",
+                        "department": "Var (83)",
+                        "position": 8
+                    },
+                    {
+                        "name": "Laurence Farreng",
+                        "age": 57,
+                        "profession": "Députée européenne depuis 2019",
+                        "department": "Pyrénées-Atlantiques (64)",
+                        "position": 9
+                    },
+                    {
+                        "name": "Gilles Boyer",
+                        "age": 52,
+                        "profession": "Député européen depuis 2019",
+                        "department": "Paris (75)",
+                        "position": 10
+                    }
+                ]
+}, 
+{
+    "listName": "Liste 3",
+    "headOfList": "Raphaël Glucksmann",
+    "programLink": "https://exemple-programme.fr",
+    "candidates": [
+        {
+            "name": "Raphaël Glucksmann",
+            "age": 44,
+            "profession": "Député européen depuis 2019, vice-président de la sous-commission “Droits de l’homme”, candidat Place publique",
+            "department": "Paris (75)",
+            "position": 1
+        },
+        {
+            "name": "Nora Mebarek",
+            "age": 51,
+            "profession": "Députée européenne depuis 2020, vice-présidente de la commission du Développement régional",
+            "department": "Bouches-du-Rhône (13)",
+            "position": 2
+        },
+        {
+            "name": "Pierre Jouvet",
+            "age": 37,
+            "profession": "Secrétaire général du PS, maire de Saint-Vallier",
+            "department": "Drôme (26)",
+            "position": 3
+        },
+        {
+            "name": "Aurore Lalucq",
+            "age": 44,
+            "profession": "Députée européenne depuis 2019, candidate Place publique",
+            "department": "Paris (75)",
+            "position": 4
+        },
+        {
+            "name": "Christophe Clergeau",
+            "age": 55,
+            "profession": "Député européen depuis 2023, secrétaire national à l’Europe du PS",
+            "department": "Loire-Atlantique (44)",
+            "position": 5
+        },
+        {
+            "name": "Murielle Laurent",
+            "age": 46,
+            "profession": "Maire de Feyzin",
+            "department": "Rhône (69)",
+            "position": 6
+        },
+        {
+            "name": "Jean-Marc Germain",
+            "age": 57,
+            "profession": "Ancien député des Hauts-de-Seine (2012-2017), conseiller régional d’Île-de-France",
+            "department": "Paris (75)",
+            "position": 7
+        },
+        {
+            "name": "Emma Rafowicz",
+            "age": 28,
+            "profession": "Présidente des Jeunes socialistes, conseillère municipale à Paris",
+            "department": "Paris (75)",
+            "position": 8
+        },
+        {
+            "name": "Thomas Pellerin-Carlin",
+            "age": 34,
+            "profession": "Chercheur sur la politique européenne de l’énergie et du climat, candidat Place publique",
+            "department": "Calvados (14)",
+            "position": 9
+        },
+        {
+            "name": "Chloé Ridel",
+            "age": 32,
+            "profession": "Porte-parole du PS",
+            "department": "Gard (30)",
+            "position": 10
+        }
+    ]
+}
+
+]
